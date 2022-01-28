@@ -1,0 +1,6 @@
+#type none when you not have a command
+citybuild: "CityBuild"
+nether: "Nether"
+end: none
+farmwelt: "FarmWelt"
+lobby: "Lobby"

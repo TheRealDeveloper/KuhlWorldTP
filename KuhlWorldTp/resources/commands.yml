@@ -1,0 +1,25 @@
+cb:
+  command: "cb"
+  description: "Teleport to the CityBuild"
+  usagemessage: null
+  aliases: ["citybuild"]
+fw:
+  command: "fw"
+  description: "Teleport to the FarmWelt"
+  usagemessage: null
+  aliases: ["farmwelt"]
+nether:
+  command: "nether"
+  description: "Teleport to the Nether"
+  usagemessage: null
+  aliases: ["nt"]
+end:
+  command: "end"
+  description: "Teleport to the End"
+  usagemessage: null
+  aliases: []
+hub:
+  command: "hub"
+  description: "Teleport to the hub"
+  usagemessage: null
+  aliases: ["lobby"]
